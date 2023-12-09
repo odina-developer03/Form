@@ -1,0 +1,52 @@
+body {
+    background-color: aqua
+  }
+  form fieldset {
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 400px;
+    margin-top: 80px;
+    border-bottom-right-radius: 60px;
+    border-top-left-radius: 60px;
+    border: 1px solid white;
+  }
+  form fieldset h1 {
+    text-align: center;
+    color:aqua;
+    font-family: cursive;
+    padding-top: 20px;
+  }
+  form fieldset .textbox {
+   margin-top: 10px;
+   border-bottom: 3px solid aqua;
+   width: 80%;
+  margin-bottom: 5px;
+  }
+  .textbox input {
+    border: 1px solid white;
+    margin-bottom: 8px;
+    margin-left: 12px;
+  }
+  .my-input {
+    color: black;
+    font-family: cursive;
+  }
+  form fieldset .aqua {
+    text-align: center;
+    background-color: aqua;
+    border-radius: 30px;
+    padding: 7px;
+    margin-top: 9px;
+    width: 90%;
+    margin-bottom: 9px;
+    color: white;
+  }
+  form fieldset .open a {
+    color: aqua
+  }
+  form fieldset .open {
+    font-family: cursive;
+    margin-top: 15px;
+  }

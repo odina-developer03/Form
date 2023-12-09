@@ -1,0 +1,62 @@
+form {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 650px;
+  }
+  
+  form .three {
+    border: 3px solid orange;
+  }
+  
+  form .three .four {
+  
+    background-color: orange;
+    border-radius: 30px;
+    padding: 8px;
+    font-family: cursive;
+    color: white;
+  }
+  
+  form .flower {
+    width: 370px;
+    height: 35px;
+    border: 1px solid orange;
+  }
+  
+  form .flower .flowers {
+    font-family: cursive;
+    color: orange;
+  }
+  
+  div {
+    margin-bottom: 10px;
+  }
+  
+  form fieldset textarea {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 1px solid orange;
+  }
+  
+  form fieldset .table {
+    width: 50px;
+    border: 1px solid orange;
+  }
+  
+  form fieldset .car {
+    font-family: cursive;
+  }
+  
+  div .one {
+    background-color: rgba(255, 166, 0, 0.562);
+    border: 1px solid orange;
+    margin-left: 280px;
+  }
+  
+  div .two {
+    background-color: aqua;
+    border: 1px solid aqua;
+  
+  }
